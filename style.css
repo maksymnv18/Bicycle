@@ -1,0 +1,18 @@
+body{
+    width: 100%;
+}
+.girl-bicycle{
+    width: 100%;
+    height: 900px;
+}
+.second{
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+}
+.icons_game{
+    width: 30px;
+    height: 30px;
+    color: rgb(54, 4, 52);
+    margin: 30px;
+}
